@@ -1,0 +1,27 @@
+
+body{
+	background-color: lightgreen;
+	font-size: 10;
+	font-family: Arial;
+	color: black;
+}
+
+h1{
+	font-size: 20;
+	font-weight: bold;
+}
+
+h2{
+	font-size: 20;
+	font-weight: bold;
+}
+
+h3{
+	font-size: 20;
+	font-weight: bold;
+}
+
+strong{
+	font-size: 30;
+	font-weight: 900;
+}
